@@ -24,6 +24,9 @@ note: i know that image in 3d model cant be print so i'll try to get stickers of
 ![four](image/top.png)
 ![five](image/bottom.png)
 
+
+## BOM 
+
 | Name             | Purpose     | Quantity | Total Cost (USD) | Link | Distributor      |
 |------------------|-------------|----------|------------------|------|------------------|
 | 3D printed part  | For project | 1        | 0.00             | N/A  | Printing Legion  |
